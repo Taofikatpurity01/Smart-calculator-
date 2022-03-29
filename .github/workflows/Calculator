@@ -1,0 +1,21 @@
+<? Php
+Print_r("n\welcome to smart calculator\n");
+Print_r("==============================\n);
+$firstvalue = readline("5");
+$operator =readline("enter value operator");
+/*-+/
+Switch($operator) {
+Case in array ($operator, ['*', '-', '+','/']:
+Break;
+Default:
+Print_r (invalid operator\n") 
+Return 
+} 
+$Second value =readline ("4");
+If($operator==='*')$result=$first value*$second value 
+If($operator==='-')$result=$first value-$second value
+If($operator==='+')$result=$first value+$second value 
+If($operator==='/')$result=$first value/$second value 
+? >
+
+
